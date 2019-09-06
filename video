@@ -1,0 +1,24 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "comfi Pure 1 Day",
+  "description": "Enjoy long-lasting comfort and the convenience of wearing daily disposables when you choose comfi Pure 1 Day contact lenses.",
+  "thumbnailUrl": "https://www.example.com/thumbnail.jpg",
+  "uploadDate": "2018-10-28T08:00:00+08:00",
+  "duration": "PT0M25S",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Fee Good Contacts",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://static.feelgoodcontacts.net/images/feelgood-contacts-logo-1.png",
+      "width": 258,
+      "height": 90
+    }
+  },
+  "contentUrl": "https://www.youtube.com/watch?v=vI4e3eSKqGY",
+  "embedUrl": "https://www.youtube.com/embed/vI4e3eSKqGY",
+  "interactionCount": "8516"
+}
+</script>
