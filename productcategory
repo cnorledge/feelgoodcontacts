@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "Daily Disposable Contact Lenses",
+  "image": [
+    "https://static.feelgoodcontacts.net/contact-lenses/img/1-day-acuvue-moist246-0-thumb.jpg"
+   ],
+  "description": "Buy daily contact lenses of top brands at the cheapest UK prices. Free next day delivery &amp; no prescription needed.",
+  "brand": {
+    "@type": "Thing",
+    "name": "Feel Good Contacts"
+  },
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5",
+      "bestRating": "5"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "John Smith"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "28376"
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "lowPrice": "8.49",
+    "highPrice": "18.90",
+    "priceCurrency": "GBP",
+    "seller": {
+      "@type": "Organization",
+      "name": "Feel Good Contacts"
+    }
+  }
+}
+</script>
